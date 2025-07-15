@@ -1,4 +1,4 @@
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2twNzZwZ25kNW41dXZ4cjMzZmgyczdzdmR4amt0NHA2cWo5aTh1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TdRjiaFRef1YAnk3rP/giphy.gif" width="100%" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2twNzZwZ25kNW41dXZ4cjMzZmgyczdzdmR4amt0NHA2cWo5aTh1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TdRjiaFRef1YAnk3rP/giphy.gif" width="90%" />
 
 ## 👋 Hey! Ben Can Yaşa
 
@@ -9,7 +9,7 @@
 ![Languages](https://img.shields.io/badge/Code-Python-blue?style=flat&logo=python)
 
 <p align="center">
-Bilgisayar Mühendisliği öğrencisiyim. Oyun geliştirme, mobil uygulama geliştirme ve yazılım dünyasının her alanına büyük bir ilgi duyuyorum. 🎮📱💻
+Bilgisayar Mühendisliği öğrencisiyim. Mobil uygulama geliştirme ve yazılım dünyasının her alanına büyük bir ilgi duyuyorum ve üstüne koyarak devam ediyorum. 🎮📱💻
 </p>
 
 ---
