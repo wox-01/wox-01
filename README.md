@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="100%" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2twNzZwZ25kNW41dXZ4cjMzZmgyczdzdmR4amt0NHA2cWo5aTh1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TdRjiaFRef1YAnk3rP/giphy.gif" width="100%" />
 
 ## 👋 Hey! Ben Can Yaşa
 
@@ -16,16 +16,17 @@ Bilgisayar Mühendisliği öğrencisiyim. Oyun geliştirme, mobil uygulama geli�
 
 ### 🚀 Şu anda neler yapıyorum?
 
-- 📱 Flutter ile spor salonu uygulaması geliştiriyoruz
+- 📱 Flutter/Dart ile spor salonu uygulaması geliştirdik 
 - 🧠 Swift ile iOS uygulamaları üzerinde çalışıyorum
 - 👨‍💻 Python, C ve HTML/CSS/JS gibi temel teknolojileri öğreniyorum
+- 💰 Kendimi geliştirip sürekli üstüne katmaya çalışıyorum
 
 ---
 
 ### 🛠️ Kullandığım ve Öğrendiğim Teknolojiler
 
 ![Unity](https://img.shields.io/badge/-Unity-000?logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/-CSharp-239120?logo=c-sharp&logoColor=white)
+![C](https://img.shields.io/badge/-C-239120?logo=c-sharp&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
