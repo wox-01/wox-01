@@ -42,8 +42,8 @@ Bilgisayar Mühendisliği öğrencisiyim. Oyun geliştirme, mobil uygulama geli�
 ### 📫 Bana Ulaş
 
 - E-mail: yasamuhammedcan7@gmail.com  
-- LinkedIn: [linkedin.com/in/kullaniciadi](https://linkedin.com/in/wox_01)  
-- Instagram: [@kullaniciadi](https://instagram.com/cann_yasaa)
+- LinkedIn: [linkedin.com/in/wox-01](https://linkedin.com/in/wox_01)  
+- Instagram: [@cann_yasaa](https://instagram.com/cann_yasaa)
 
 ---
 
