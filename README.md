@@ -1,4 +1,12 @@
-<h1 align="center">👋 Selam, ben Can</h1>
+<img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="100%" />
+
+## 👋 Hey! Ben Can Yaşa
+
+🎮 Oyun Geliştirici | 📱 iOS Developer Adayı | 🧠 Sürekli Öğrenen
+
+![GitHub followers](https://img.shields.io/github/followers/wox-01?label=Follow&style=social)
+![Languages](https://img.shields.io/badge/Code-Swift-orange?style=flat&logo=swift)
+![Languages](https://img.shields.io/badge/Code-Python-blue?style=flat&logo=python)
 
 <p align="center">
 Bilgisayar Mühendisliği öğrencisiyim. Oyun geliştirme, mobil uygulama geliştirme ve yazılım dünyasının her alanına büyük bir ilgi duyuyorum. 🎮📱💻
