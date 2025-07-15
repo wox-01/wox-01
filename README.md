@@ -1,4 +1,4 @@
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2twNzZwZ25kNW41dXZ4cjMzZmgyczdzdmR4amt0NHA2cWo5aTh1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TdRjiaFRef1YAnk3rP/giphy.gif" width="100%"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2J3NTZiOXZqeXdzaW55OG02bjRhZWd1bXIyaWhsN3JiZDhvOGlsYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5PhpqBTmiqNFsvwNxS/giphy.gif" width="100%"/>
 
 
 ## 👋 Hey! Ben Can Yaşa
