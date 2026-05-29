@@ -1,58 +1,65 @@
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2J3NTZiOXZqeXdzaW55OG02bjRhZWd1bXIyaWhsN3JiZDhvOGlsYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5PhpqBTmiqNFsvwNxS/giphy.gif" width="100%"/>
 
 
-<h1 align="center">Hi, I'm Can Yaşa 👋</h1>
+<div align="center">
 
-<h3 align="center">Computer Engineering Student • Mobile Developer • Software Enthusiast</h3>
+# Hi, I'm Can Yaşa
 
-<p align="center">
+### Computer Engineering Student • Mobile Developer • Software Enthusiast
+
 Passionate about software development, mobile technologies, and building scalable digital solutions.
+
 Currently focusing on software engineering principles, mobile application development, and continuous learning.
-</p>
 
----
+<br>
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 Computer Engineering Student
-- 📱 Interested in Mobile Application Development
-- 🍏 Exploring the Apple Ecosystem and iOS Development
-- 💻 Passionate about Software Architecture and Clean Code
-- 🚀 Constantly learning new technologies and development practices
-- 🌍 Open to collaboration and new opportunities
+Computer Engineering Student
 
----
+Interested in Mobile Application Development
 
-## 🛠️ Technologies & Tools
+Exploring the Apple Ecosystem and iOS Development
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=swift,flutter,dart,python,c,html,css,js,git,github,unity" />
-</p>
+Passionate about Software Architecture and Clean Code
 
----
+Constantly learning new technologies and development practices
 
-## 🎯 Current Focus
+Open to collaboration and new opportunities
 
-- Mobile Development
-- Swift & iOS Ecosystem
-- Software Engineering
-- Data Structures & Algorithms
-- Backend Fundamentals
-- Cloud Technologies
+<br>
 
----
+## Technologies & Tools
 
-## 🌐 Connect With Me
+<img src="https://skillicons.dev/icons?i=swift,flutter,dart,python,c,html,css,js,git,github,unity" />
 
-<p align="center">
-  <a href="mailto:yasamuhammedcan7@gmail.com">📧 Email</a><br>
-  <a href="https://www.linkedin.com/in/can-ya%C5%9Fa-b8a92531b/">💼 LinkedIn</a><br>
-  <a href="https://instagram.com/cann_yasaa">📸 Instagram</a>
-</p>
+<br><br>
 
----
+## Current Focus
 
-<p align="center">
-  <i>"Code. Learn. Build. Improve."</i>
-</p>
+Mobile Development • Swift & iOS Ecosystem • Software Engineering
+
+Data Structures & Algorithms • Backend Fundamentals • Cloud Technologies
+
+<br>
+
+## GitHub Stats
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=wox-01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wox-01&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+<br>
+
+## Connect With Me
+
+<a href="mailto:yasamuhammedcan7@gmail.com">Email</a> •
+<a href="https://www.linkedin.com/in/can-ya%C5%9Fa-b8a92531b/">LinkedIn</a> •
+<a href="https://instagram.com/cann_yasaa">Instagram</a>
+
+<br><br>
+
+*"Code. Learn. Build. Improve."*
+
+</div>
 
