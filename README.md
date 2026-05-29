@@ -30,14 +30,6 @@ Currently focusing on software engineering principles, mobile application develo
 </p>
 
 ---
-
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wox-01&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wox-01&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
 ---
 
 ## 🎯 Current Focus
