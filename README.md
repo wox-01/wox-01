@@ -47,8 +47,6 @@ Data Structures & Algorithms • Backend Fundamentals • Cloud Technologies
 
 <div align="center">
 
-## Connect With Me
-
 <a href="mailto:yasamuhammedcan7@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
