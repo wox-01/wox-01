@@ -41,15 +41,7 @@ Mobile Development • Swift & iOS Ecosystem • Software Engineering
 
 Data Structures & Algorithms • Backend Fundamentals • Cloud Technologies
 
-<br>
-
-## GitHub Stats
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=wox-01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wox-01&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
-<br>
+<br><br>
 
 ## Connect With Me
 
