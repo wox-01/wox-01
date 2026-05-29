@@ -8,7 +8,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/wox-01?label=Follow&style=social)
 ![Languages](https://img.shields.io/badge/Code-Swift-orange?style=flat&logo=swift)
 ![Languages](https://img.shields.io/badge/Code-Python-blue?style=flat&logo=python)
-
+![Languages](https://img.shields.io/badge/Code-Flutter-orange?style=flat&logo=flutter)
 <p align="center">
 Bilgisayar Mühendisliği öğrencisiyim. Mobil uygulama geliştirme ve yazılım dünyasının her alanına büyük bir ilgi duyuyorum ve üstüne koyarak devam ediyorum. 🎮📱💻
 </p>
