@@ -25,7 +25,7 @@ Currently focusing on software engineering principles, mobile application develo
 
 ## 🛠️ Technologies & Tools
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=swift,flutter,dart,python,c,html,css,js,git,github,unity" />
 </p>
 
@@ -44,7 +44,7 @@ Currently focusing on software engineering principles, mobile application develo
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="mailto:yasamuhammedcan7@gmail.com">📧 Email</a><br>
   <a href="https://www.linkedin.com/in/can-ya%C5%9Fa-b8a92531b/">💼 LinkedIn</a><br>
   <a href="https://instagram.com/cann_yasaa">📸 Instagram</a>
