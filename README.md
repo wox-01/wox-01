@@ -30,7 +30,6 @@ Currently focusing on software engineering principles, mobile application develo
 </p>
 
 ---
----
 
 ## 🎯 Current Focus
 
