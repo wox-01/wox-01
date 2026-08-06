@@ -1,20 +1,19 @@
 # Can Yaşa
 
-Computer Engineering student transitioning into ML/AI engineering. Background in mobile and full-stack development (Flutter, Firebase, PHP/MySQL); currently building practical LLM/RAG and deep learning skills through applied projects rather than coursework alone.
+Building toward LLM and retrieval-augmented systems engineering, coming from a background in mobile and full-stack development (Flutter, Firebase, PHP/MySQL).
 
-[LinkedIn](https://www.linkedin.com/in/can-ya%C5%9Fa-b8a92531b/) · [can@email](mailto:yasamuhammedcan7@gmail.com)
-
-## Projects
+## Selected work
 
 **Personal Brain** — *in progress*
-A retrieval-augmented generation system for personal knowledge management. Built to work through the practical failure modes of RAG (chunking strategy, retrieval quality, context assembly) rather than relying on a tutorial pipeline. Python.
+A retrieval-augmented system for personal knowledge management, built to understand RAG's practical failure modes firsthand — chunking strategy, retrieval quality, context assembly — rather than through a tutorial pipeline. Python.
 
 **Medication Tracking App** — TEKNOFEST Health AI category
-Flutter application integrating the OpenAI API for medication scheduling and adherence tracking. Built with a 4-person team; owned the API integration and reminder logic.
-
-**Aura Fitness**
-Gym membership and workout tracking app handling subscription state and scheduling. Flutter, Firebase.
+A medication adherence app built for a national AI competition. The core problem was turning unreliable LLM output (via the OpenAI API) into deterministic reminder scheduling — a domain where silent failures matter. Built with a 4-person team.
 
 ## Currently learning
 
-NumPy, Pandas, PyTorch — building toward applied deep learning and LLM systems work.
+Deep learning fundamentals, LLM and RAG systems engineering.
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/can-ya%C5%9Fa-b8a92531b/) · [email](mailto:yasamuhammedcan7@gmail.com)
