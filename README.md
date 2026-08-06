@@ -5,41 +5,39 @@
 
 # Hi, I'm Can Yaşa
 
-### Computer Engineering Student • Mobile Developer • Software Enthusiast
+### Computer Engineering Student • Building Toward ML/AI Engineering
 
-Passionate about software development, mobile technologies, and building scalable digital solutions.
-
-Currently focusing on software engineering principles, mobile application development, and continuous learning.
+Background in mobile & full-stack development (Flutter, Firebase, PHP). Now self-studying Machine Learning, Deep Learning, and LLM/RAG systems — learning by building real projects, not just courses.
 
 <br>
 
 ## About Me
 
-Computer Engineering Student
+Computer Engineering Student, Artvin Çoruh University
 
-Interested in Mobile Application Development
+Self-studying ML/DL/LLM engineering, targeting an AI-focused internship
 
-Exploring the Apple Ecosystem and iOS Development
+Building a Retrieval-Augmented Generation (RAG) personal memory app as a hands-on learning project
 
-Passionate about Software Architecture and Clean Code
+Background in mobile development (Flutter/Dart/Firebase) and full-stack (PHP/MySQL) — see pinned repos
 
-Constantly learning new technologies and development practices
-
-Open to collaboration and new opportunities
+Open to ML/AI internship opportunities
 
 <br>
 
 ## Technologies & Tools
 
-<img src="https://skillicons.dev/icons?i=swift,flutter,dart,python,c,html,css,js,git,github,unity" />
+<img src="https://skillicons.dev/icons?i=python,flutter,dart,firebase,c,html,css,js,git,github" />
+
+**Currently learning:** NumPy • Pandas • PyTorch • LLM/RAG engineering
 
 <br><br>
 
 ## Current Focus
 
-Mobile Development • Swift & iOS Ecosystem • Software Engineering
+Machine Learning & Deep Learning Fundamentals • LLM & RAG Systems • Python
 
-Data Structures & Algorithms • Backend Fundamentals • Cloud Technologies
+Data Structures & Algorithms • Software Engineering Fundamentals
 
 <br><br>
 
@@ -48,15 +46,17 @@ Data Structures & Algorithms • Backend Fundamentals • Cloud Technologies
 <div align="center">
 
 <a href="mailto:yasamuhammedcan7@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/ba-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/can-ya%C5%9Fa-b8a92531b/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/
+  <img
+src="https://img.shields.io/badge/Lin-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/cann_yasaa">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<a href="https://instagram.com/cann_y
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColo
+r=white" />
 </a>
 
 </div>
@@ -65,4 +65,3 @@ Data Structures & Algorithms • Backend Fundamentals • Cloud Technologies
 *"Code. Learn. Build. Improve."*
 
 </div>
-
