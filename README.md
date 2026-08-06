@@ -1,10 +1,10 @@
 # Can Yaşa
 
-Building intelligent software with a focus on LLMs, retrieval-augmented generation (RAG), and AI-powered applications. Background in mobile and full-stack development using Flutter, Firebase, and PHP/MySQL.
+Computer Engineering student focused on LLMs, retrieval-augmented generation, and applied AI engineering. Background in mobile and full-stack development (Flutter, Firebase, PHP/MySQL).
 
 ## About
 
-I'm a Computer Engineering student interested in building production-oriented AI systems rather than tutorial projects. I enjoy combining backend engineering, mobile development, and modern AI techniques to solve practical problems.
+I'm a Computer Engineering student interested in combining backend engineering, mobile development, and modern AI techniques to build real systems, not just tutorial projects.
 
 ## Selected Projects
 
@@ -30,13 +30,14 @@ A mobile fitness platform for membership management and workout tracking. Design
 
 **Stack:** Flutter · Firebase
 
-## Current Focus
+## Currently learning
 
-Currently exploring and building in:
+Deep learning fundamentals, LLM & RAG systems engineering.
 
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
-- Deep Learning
-- Model Evaluation
-- Backend System Design
+## Long-term goal
+
+Working in applied AI/ML engineering.
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/can-ya%C5%9Fa-b8a92531b/) · [email](mailto:yasamuhammedcan7@gmail.com)
